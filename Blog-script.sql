@@ -17,15 +17,6 @@ fecharCreacion datetime,
 usuario varchar(100)
 )
 
-ALTER TABLE publicacion ADD usuario varchar(100)
-
-ALTER TABLE publicacion ALTER COLUMN fecharCreacion varchar(100)
-
-INSERT INTO publicacion
-VALUES ('prueba4','dkfjfdkjfskdjfsdfsdfdsfd', SYSDATETIME(),'tyler')
-select * from publicacion
-
-
 
 SET ANSI_NULLS ON
 GO
@@ -115,7 +106,7 @@ END
 GO
 SET QUOTED_IDENTIFIER ON
 GO
-alter PROCEDURE [dbo].[spRegistrarPublicidad]
+CREATE PROCEDURE [dbo].[spRegistrarPublicidad]
 (
 @prmTitulo VARCHAR(100),
 @prmContenido VARCHAR(100),

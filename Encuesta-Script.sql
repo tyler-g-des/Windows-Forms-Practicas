@@ -1,4 +1,3 @@
-
 CREATE DATABASE Encuestas
 
 USE [Encuestas]
@@ -24,27 +23,6 @@ CREATE TABLE preguntas
  pregunata varchar(200),
  usuarioEncuesta varchar(100)
 ) ON [PRIMARY]
-
-
-
-
-
-insert into encuesta values('senso2020',3,'tylenol')
-
-insert into usuario values('tyler','diaz','tylenol','1234')
-
-insert into preguntas values ('cuestionante','senso2010')
-
-	
-select * from encuesta
-select * from preguntas
-select * from usuario
-
-delete from encuesta where usuarioEncuesta = 'senso2020';
-
-
-truncate table preguntas
-
 
 
 
@@ -95,7 +73,7 @@ SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
 GO
-ALTER PROCEDURE [dbo].[spRegistrarEncuesta]
+CREATE PROCEDURE [dbo].[spRegistrarEncuesta]
 (
 @prmNombre VARCHAR(100),
 @prmNumeroPregunta VARCHAR(100),
@@ -112,7 +90,7 @@ SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
 GO
-ALTER PROCEDURE [dbo].[spRegistrarPregunta]
+CREATE PROCEDURE [dbo].[spRegistrarPregunta]
 (
 @prmPregunta VARCHAR(100),
 @prmUsuario VARCHAR(100)
@@ -122,6 +100,3 @@ BEGIN
 INSERT INTO preguntas 
 VALUES (@prmPregunta , @prmUsuario)
 
-UPDATE encuesta set numeroDePreguntas = numeroDePreguntas + 1
-WHERE nombreEncuesta = @prmUsuario;
-END
