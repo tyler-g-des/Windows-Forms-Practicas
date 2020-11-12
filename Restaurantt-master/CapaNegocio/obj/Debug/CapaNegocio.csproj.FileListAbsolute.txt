@@ -1,0 +1,11 @@
+C:\Users\tyler.diaz\Desktop\Restaurant\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\tyler.diaz\Desktop\Restaurant\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\tyler.diaz\Desktop\Restaurant\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\tyler.diaz\Desktop\Restaurant\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\tyler.diaz\Desktop\Restaurant\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\tyler.diaz\Desktop\Restaurant\CapaNegocio\bin\Debug\FluentAssertions.dll
+C:\Users\tyler.diaz\Desktop\Restaurant\CapaNegocio\bin\Debug\System.ValueTuple.dll
+C:\Users\tyler.diaz\Desktop\Restaurant\CapaNegocio\bin\Debug\FluentAssertions.pdb
+C:\Users\tyler.diaz\Desktop\Restaurant\CapaNegocio\bin\Debug\FluentAssertions.xml
+C:\Users\tyler.diaz\Desktop\Restaurant\CapaNegocio\bin\Debug\System.ValueTuple.xml
+C:\Users\tyler.diaz\Desktop\Restaurant\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete

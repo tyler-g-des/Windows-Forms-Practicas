@@ -1,0 +1,12 @@
+C:\Users\tyler.diaz\Desktop\Restaurant\CapaUI\bin\Debug\CapaUI.exe.config
+C:\Users\tyler.diaz\Desktop\Restaurant\CapaUI\bin\Debug\CapaUI.exe
+C:\Users\tyler.diaz\Desktop\Restaurant\CapaUI\bin\Debug\CapaUI.pdb
+C:\Users\tyler.diaz\Desktop\Restaurant\CapaUI\bin\Debug\CapaNegocio.dll
+C:\Users\tyler.diaz\Desktop\Restaurant\CapaUI\bin\Debug\CapaNegocio.pdb
+C:\Users\tyler.diaz\Desktop\Restaurant\CapaUI\obj\Debug\CapaUI.csprojAssemblyReference.cache
+C:\Users\tyler.diaz\Desktop\Restaurant\CapaUI\obj\Debug\CapaUI.Properties.Resources.resources
+C:\Users\tyler.diaz\Desktop\Restaurant\CapaUI\obj\Debug\CapaUI.csproj.GenerateResource.cache
+C:\Users\tyler.diaz\Desktop\Restaurant\CapaUI\obj\Debug\CapaUI.csproj.CopyComplete
+C:\Users\tyler.diaz\Desktop\Restaurant\CapaUI\obj\Debug\CapaUI.exe
+C:\Users\tyler.diaz\Desktop\Restaurant\CapaUI\obj\Debug\CapaUI.pdb
+C:\Users\tyler.diaz\Desktop\Restaurant\CapaUI\obj\Debug\CapaUI.Programa.resources

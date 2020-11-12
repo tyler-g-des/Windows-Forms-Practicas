@@ -1,0 +1,6 @@
+C:\Users\tyler.diaz\Desktop\Contactos\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\tyler.diaz\Desktop\Contactos\Logica\bin\Debug\Logica.dll
+C:\Users\tyler.diaz\Desktop\Contactos\Logica\bin\Debug\Logica.pdb
+C:\Users\tyler.diaz\Desktop\Contactos\Logica\obj\Debug\Logica.dll
+C:\Users\tyler.diaz\Desktop\Contactos\Logica\obj\Debug\Logica.pdb
+C:\Users\tyler.diaz\Desktop\Contactos\Logica\bin\Debug\Logica.dll.config
