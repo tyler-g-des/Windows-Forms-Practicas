@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaDeBlog", "SistemaDeBlog.csproj", "{98E2C174-0A41-4256-888B-437242B8E671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDeBasesDatos", "..\CapaDeBasesDatos\CapaDeBasesDatos.csproj", "{53D838F4-64C8-4BE6-9214-B0D415AC39F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98E2C174-0A41-4256-888B-437242B8E671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98E2C174-0A41-4256-888B-437242B8E671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98E2C174-0A41-4256-888B-437242B8E671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98E2C174-0A41-4256-888B-437242B8E671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53D838F4-64C8-4BE6-9214-B0D415AC39F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D838F4-64C8-4BE6-9214-B0D415AC39F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D838F4-64C8-4BE6-9214-B0D415AC39F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D838F4-64C8-4BE6-9214-B0D415AC39F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E748F11E-3A55-4832-9904-9B5BB98683C8}
+	EndGlobalSection
+EndGlobal

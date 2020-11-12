@@ -1,0 +1,13 @@
+C:\Users\tyler.diaz\Desktop\Sistema de blog\SistemaDeBlog\obj\Debug\SistemaDeBlog.csprojAssemblyReference.cache
+C:\Users\tyler.diaz\Desktop\Sistema de blog\SistemaDeBlog\obj\Debug\SistemaDeBlog.Form1.resources
+C:\Users\tyler.diaz\Desktop\Sistema de blog\SistemaDeBlog\obj\Debug\SistemaDeBlog.Properties.Resources.resources
+C:\Users\tyler.diaz\Desktop\Sistema de blog\SistemaDeBlog\obj\Debug\SistemaDeBlog.csproj.GenerateResource.cache
+C:\Users\tyler.diaz\Desktop\Sistema de blog\SistemaDeBlog\bin\Debug\SistemaDeBlog.exe.config
+C:\Users\tyler.diaz\Desktop\Sistema de blog\SistemaDeBlog\bin\Debug\SistemaDeBlog.exe
+C:\Users\tyler.diaz\Desktop\Sistema de blog\SistemaDeBlog\bin\Debug\SistemaDeBlog.pdb
+C:\Users\tyler.diaz\Desktop\Sistema de blog\SistemaDeBlog\bin\Debug\CapaDeBasesDatos.exe
+C:\Users\tyler.diaz\Desktop\Sistema de blog\SistemaDeBlog\bin\Debug\CapaDeBasesDatos.pdb
+C:\Users\tyler.diaz\Desktop\Sistema de blog\SistemaDeBlog\bin\Debug\CapaDeBasesDatos.exe.config
+C:\Users\tyler.diaz\Desktop\Sistema de blog\SistemaDeBlog\obj\Debug\SistemaDeBlog.csproj.CopyComplete
+C:\Users\tyler.diaz\Desktop\Sistema de blog\SistemaDeBlog\obj\Debug\SistemaDeBlog.exe
+C:\Users\tyler.diaz\Desktop\Sistema de blog\SistemaDeBlog\obj\Debug\SistemaDeBlog.pdb

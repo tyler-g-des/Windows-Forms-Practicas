@@ -1,0 +1,8 @@
+C:\Users\tyler.diaz\Desktop\Sistema de blog\CapaDeBasesDatos\obj\Debug\CapaDeBasesDatos.csprojAssemblyReference.cache
+C:\Users\tyler.diaz\Desktop\Sistema de blog\CapaDeBasesDatos\obj\Debug\CapaDeBasesDatos.Properties.Resources.resources
+C:\Users\tyler.diaz\Desktop\Sistema de blog\CapaDeBasesDatos\obj\Debug\CapaDeBasesDatos.csproj.GenerateResource.cache
+C:\Users\tyler.diaz\Desktop\Sistema de blog\CapaDeBasesDatos\bin\Debug\CapaDeBasesDatos.exe.config
+C:\Users\tyler.diaz\Desktop\Sistema de blog\CapaDeBasesDatos\bin\Debug\CapaDeBasesDatos.exe
+C:\Users\tyler.diaz\Desktop\Sistema de blog\CapaDeBasesDatos\bin\Debug\CapaDeBasesDatos.pdb
+C:\Users\tyler.diaz\Desktop\Sistema de blog\CapaDeBasesDatos\obj\Debug\CapaDeBasesDatos.exe
+C:\Users\tyler.diaz\Desktop\Sistema de blog\CapaDeBasesDatos\obj\Debug\CapaDeBasesDatos.pdb
